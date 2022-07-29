@@ -14,9 +14,8 @@ module.exports = {
             url: 'https://www.apache.org/licenses/LICENSE-2.0.html'
         }
     },
-    host: "pixelapimservices.azurewebsites.net",
+    host: "pixelapike.azurewebsites.net",
     schemes: [
-        "http",
         "https"
     ],
     paths: {
